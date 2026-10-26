@@ -1,0 +1,12 @@
+NoLimit — complete source
+
+1. Extract this ZIP archive.
+2. Upload the file named nolimitFertig (without a file extension) to the root of
+   the existing public GitHub repository NoLimit030/nolimit. Replace the old file.
+3. Commit the upload. Do not copy only the text shown in a shortened file preview.
+4. Run NoLimit-loader.lua in the executor. It downloads the GitHub file and displays
+   a visible error if downloading, compiling or starting fails.
+
+nolimit.lua and nolimitFertig contain the same complete source.
+The many extra lines are embedded image data split into readable chunks.
+The logo and animation still require writefile plus getcustomasset/getsynasset.
